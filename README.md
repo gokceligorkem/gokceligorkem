@@ -15,7 +15,7 @@ Yazılım geliştirme ve teknolojiye olan tutkumla, çeşitli alanlarda deneyim 
 
 Sosyal medya hesaplarım:
 - [LinkedIn](https://www.linkedin.com/in/gokceligorkem/)
-- [Twitter](https://twitter.com/gokceligorkem)
+- [Twitter](https://twitter.com/gokceligorkem1)
 
 ## Proje Örnekleri
 - 🌱 Şu anda geliştirmekte olduğum projeleri sizlerle paylaşıyorum!
