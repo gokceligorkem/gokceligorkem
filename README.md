@@ -1,7 +1,7 @@
 # Merhaba, Ben Görkem Gökçeli! 👋
 
 ## Hakkımda
-Yazılım geliştirme ve teknolojiye olan tutkumla, çeşitli alanlarda deneyim kazandım. C#, HTML, CSS, TypeScript ve T-SQL konularında üzerinde çalışıyorum.
+Yazılım geliştirme ve teknolojiye olan tutkumla, çeşitli alanlarda deneyim kazanıyorum. C#, HTML, CSS, TypeScript ve T-SQL konularında üzerinde çalışıyorum.
 
 ## İlgi Alanlarım
 - C#
