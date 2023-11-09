@@ -14,8 +14,8 @@ Yazılım geliştirme ve teknolojiye olan tutkumla, çeşitli alanlarda deneyim 
 📧 E-posta: gokceligorkemm@gmail.com
 
 Sosyal medya hesaplarım:
-- [LinkedIn](https://www.linkedin.com/in/gokceligorkem/)
-- [Twitter](https://twitter.com/gorkemgokceli1)
+- [LinkedIn](https://www.linkedin.com/in/gokceligorkem/)<<
+- [Twitter](https://twitter.com/gorkemgokceli1)<<<
 
 ## Proje Örnekleri
 - 🌱 Şu anda geliştirmekte olduğum projeleri sizlerle paylaşıyorum!
