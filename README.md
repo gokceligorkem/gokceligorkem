@@ -18,6 +18,6 @@ Sosyal medya hesaplarım:
 - [Twitter](https://twitter.com/gokceligorkem)
 
 ## Proje Örnekleri
-- 🌱 Şu anda geliştirmekte olduğum projeleri yakında paylaşacağım!
+- 🌱 Şu anda geliştirmekte olduğum projeleri sizlerle paylaşıyorum!
 
 👀 GitHub profilime hoş geldiniz! Daha fazla içerik ve güncellemeler için takipte kalın. Teşekkürler!
